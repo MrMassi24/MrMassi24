@@ -8,7 +8,7 @@
 
 ```typescript
 const massi = {
-    age: 24,
+    age: 25,
     location: "Rome, Italy",
     occupation: ["Software Developer", "Entrepreneur"],
     passions: ["Tech", "Anime", "Manga", "Chess"],
