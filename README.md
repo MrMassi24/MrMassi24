@@ -40,9 +40,11 @@ const MassiVerse = {
 };
 ```
 
-<img align="right" alt="Massi's Immortal Code Craft" width="400" src="https://tenor.com/view/frieren-sousou-no-frieren-anime-gif-27666350.gif">
+
 
 ## 📜 The Eternal Journey
+
+<img align="right" alt="Massi's Immortal Code Craft" width="250" src="https://i.imgur.com/LVlVta7.gif">
 
 -   🔮 **Century-Long Quest**: Mastering all programming paradigms across time
 -   🧠 **Elite Training Protocol**: Using perfect calculation to optimize system architectures
